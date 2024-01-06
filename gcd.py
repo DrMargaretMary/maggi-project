@@ -3,5 +3,5 @@
 import math
  
 # prints 12
-print("The gcd of 60 and 48 is : ", end="")
-print(math.gcd(60, 48))
+print("The gcd of 61 and 49 is : ", end="")
+print(math.gcd(61, 49))
