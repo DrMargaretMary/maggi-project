@@ -5,3 +5,4 @@ import math
 # prints 12
 print("The gcd of 61 and 49 is : ", end="")
 print(math.gcd(61, 49))
+print(math.gcd(55,44))
